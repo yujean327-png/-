@@ -1,0 +1,8 @@
+{
+  "name": "影学日和 (Eigaku Hiyori)",
+  "description": "通过影视作品学习日语的智能助手。自动提取字幕，提供深度语法与词汇讲解，并支持学习进度存档。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
